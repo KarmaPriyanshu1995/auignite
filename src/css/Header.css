@@ -1,13 +1,20 @@
-*{
-    padding:0px;
-    margin:0px;
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
 }
 
-.header{
-background-color:#6C276C;
-
+.header {
+  background-color: #6c276c;
+  justify-content: space-between;
+  display: flex;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  align-items: center;
 }
-.imageStyle{
-    height: 50px;
-    weight:50px;
+.imageStyle {
+  height: 50px;
+  weight: 50px;
 }
