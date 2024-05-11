@@ -1,0 +1,13 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.header{
+background-color:#6C276C;
+
+}
+.imageStyle{
+    height: 50px;
+    weight:50px;
+}
