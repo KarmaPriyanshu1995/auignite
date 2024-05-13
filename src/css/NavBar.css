@@ -1,6 +1,7 @@
 .menu{
-    height:40px;
-    width:40px;
+    height:30px;
+    width:30px;
+    
 }
 
 .navBarHeader{
@@ -16,4 +17,8 @@
 .titelText{
     display:flex;
     gap:15px
+}
+.titelText p{
+    font-weight: bolder;
+    color:#6c276c
 }
