@@ -25,7 +25,7 @@ export default function Courses_Section() {
       <div className="coursesCard">
        
         <div className="subjectSection">
-          <h1>Full Stack</h1>
+          <h1>SalseForce</h1>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
@@ -36,13 +36,13 @@ export default function Courses_Section() {
           <button className="buttonStyle">Read More</button>
           </div>
         </div>
-          <img src={IMAGES.FULL_STACK} className="coursesImageStyle" />
+          <img src={IMAGES.SALES_FORCE} className="coursesImageStyle" />
         
       </div>
       <div className="coursesCard">
-        <img src={IMAGES.FULL_STACK} className="coursesImageStyle" />
+        <img src={IMAGES.AI_DATA_SCIENCE} className="coursesImageStyle" />
         <div className="subjectSection">
-          <h1>Full Stack</h1>
+          <h1>AI Data Science</h1>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text

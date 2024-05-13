@@ -5,6 +5,8 @@ import { Carousel } from './Carousel'
 import NavBar from './NavBar'
 import Courses_Section from './Courses_Section'
 import '../css/Home.css'
+import Card_Slider from './Card_Slider'
+import Placement from './Placement'
 export default function Home() {
   return (
     <div className='mainPage'>
@@ -12,6 +14,8 @@ export default function Home() {
         <NavBar/>
         <Carousel/>
         <Courses_Section/>
+        <Card_Slider/>
+        <Placement/>
     </div>
   )
 }

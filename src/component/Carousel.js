@@ -1,11 +1,12 @@
 import React, { useState } from "react";
 import "../css/Carousel.css";
 import {BsArrowLeftCircleFill,BsArrowRightCircleFill} from 'react-icons/bs'
-export const Carousel = ({ data }) => {
+import IMAGES from "./Images";
+export const Carousel = () => {
   const [slide,setSlide]=useState(0)
   const slider = [
     {
-      src: "https://picsum.photos/seed/img1/600/400",
+      src:IMAGES.BHAI,
       alt: "Image 1 for carousel",
     },
     {

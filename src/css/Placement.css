@@ -1,0 +1,23 @@
+.marqueImage{
+    height:100px;
+    width:220px;
+    align-items: center;
+    justify-content: center;
+    padding-left:50px;
+}
+.placementMainDiv{
+    background-color: white;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.marqueeClass{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.coursesHeader{
+    text-align: center;
+    padding:20px;
+    font-size: 20px;
+    font-weight: bolder;
+    color:#6c276c
+}
